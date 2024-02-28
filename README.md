@@ -1,5 +1,14 @@
 # Simple Math game created with Kotlin and Jetpack Compose
 
-![Screenshot_20240228_172158_MathGame](https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/0fdf79ff-aadd-4bb9-860a-83adeca804d1)
-![Screenshot_20240228_172208_MathGame](https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/1a62606e-3559-4f4c-ac81-000fa8fdfc39)
-![Screenshot_20240228_172311_MathGame](https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/35413698-4a66-4003-9cd3-556927ac2af2)
+
+<p align="center">
+  <img src="https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/1ac51a94-c101-4a7b-aa95-2a0bbd220137" />
+</p>
+<p align="center">
+  <img src="https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/c150d985-9706-400e-becd-884dab54d84a" />
+</p>
+<p align="center">
+  <img src="https://github.com/KennethBarreraDev/SimpleMathGame/assets/90868273/949af4a6-b91f-4d8d-b97d-969c9bd45ae0" />
+</p>
+
+
